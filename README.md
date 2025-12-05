@@ -1,5 +1,23 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>A 2D top-down survival RPG in Godot with AI enemies and procedural systems<br><br>A Java-based pathfinding visualizer (A*, BFS, DFS, Dijkstra)<br><br><br>💬 Ask me about<br><br>Java desktop development (Swing / File systems / Databases / JQuery)<br><br>Procedural AI in games<br><br>Building automation scripts and scrapers in Python<br><br>⚡ Fun fact<br><br>If something doesn’t exist, I usually build it myself — from simulations to speech-powered tools.
+💫 About Me
+
+I’m a developer who enjoys turning ideas into working systems — especially where AI, automation, and game mechanics meet.
+
+🔭 Currently Working On
+
+A procedural survival RPG in Godot featuring dynamic AI enemies and world systems
+
+A Java pathfinding visualizer showcasing classic algorithms (A*, BFS, DFS, Dijkstra)
+
+💬 I Love Talking About
+
+Desktop application development in Java (Swing, data persistence, file systems)
+
+Procedural and AI-driven behavior in games
+
+Automation scripting, scraping, and Python-based utility tools
+
+⚡ Fun Fact
+Whether it’s simulation systems or speech-driven productivity software, I enjoy building things that should exist but don’t (yet).
 
 
 ## 🌐 Socials:
